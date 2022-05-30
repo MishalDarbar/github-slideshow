@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "hi i am mishal"
 ---
 Your text
-Use the left arrow to go back!
+learing something new
